@@ -7,7 +7,7 @@ For more details and dataset statistics, please refer to our paper: **[Temporal 
 
 # Dataset download
 
-The dataset can be downloaded [here](). 
+The dataset can be downloaded [here](https://drive.google.com/file/d/1ZhL-2zVgqh9J49IRTKiDg-HCoBac2fgQ/view?usp=sharing). 
 
 # Dataset Structure and Sample Format
 
@@ -40,7 +40,7 @@ Each sample (.csv file) line (corresponding to an instant t) has the following p
 
 If you found this dataset useful, please cite the following paper:
 
-    @article{faghri2018vse++,
+    @article{tcn_robust_liveness_detection_ibpria22,
       title={Temporal Convolutional Networks for Robust Face Liveness Detection},
       author={Padnevych, Ruslan and Carmo, David and Semedo, David and Magalhães, João},
       booktitle = {IbPRIA 2022: 10th Iberian Conference on Pattern Recognition and Image Analysis  (to appear)},
