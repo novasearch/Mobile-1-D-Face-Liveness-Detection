@@ -3,7 +3,7 @@
 The dataset was created with the goal of evaluating models for **liveness detection on the fly, based on photoplethysmography (rPPG) estimated pulses**.  It simulates a setting where a liveness verification step is conducted during an user authentication phase in a mobile phone. To keep the application responsive, liveness needs to be detected on an atmost 5s video, in a non-intrusive manner.
 
 For more details and dataset statistics, please refer to our paper: **[Temporal Convolutional Networks for Robust Face Liveness Detection](https://link.springer.com/chapter/10.1007/978-3-031-04881-4_21)**
-*, R. Padnevych, D. Carmo, D. Semedo, J. Magalhães, Proceedings of the 10th  10th Iberian Conference on Pattern Recognition and Image Analysis (ibPRIA),  2022. (Full paper)*
+*, R. Padnevych, D. Carmo, D. Semedo, J. Magalhães, Proceedings of the 10th Iberian Conference on Pattern Recognition and Image Analysis (ibPRIA),  2022. (Full paper)*
 
 # Dataset download
 
