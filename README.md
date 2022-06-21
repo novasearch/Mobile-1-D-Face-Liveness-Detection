@@ -2,7 +2,7 @@
 
 The dataset was created with the goal of evaluating models for **liveness detection on the fly, based on photoplethysmography (rPPG) estimated pulses**.  It simulates a setting where a liveness verification step is conducted during an user authentication phase in a mobile phone. To keep the application responsive, liveness needs to be detected on an atmost 5s video, in a non-intrusive manner.
 
-For more details and dataset statistics, please refer to our paper: **[Temporal Convolutional Networks for Robust Face Liveness Detection]()**
+For more details and dataset statistics, please refer to our paper: **[Temporal Convolutional Networks for Robust Face Liveness Detection](https://link.springer.com/chapter/10.1007/978-3-031-04881-4_21)**
 *, R. Padnevych, D. Carmo, D. Semedo, J. Magalhães, Proceedings of the 10th  10th Iberian Conference on Pattern Recognition and Image Analysis (ibPRIA),  2022. (Full paper)*
 
 # Dataset download
@@ -40,13 +40,24 @@ Each sample (.csv file) line (corresponding to an instant t) has the following p
 
 If you found this dataset useful, please cite the following paper:
 
-    @article{tcn_robust_liveness_detection_ibpria22,
-      title={Temporal Convolutional Networks for Robust Face Liveness Detection},
-      author={Padnevych, Ruslan and Carmo, David and Semedo, David and Magalhães, João},
-      booktitle = {IbPRIA 2022: 10th Iberian Conference on Pattern Recognition and Image Analysis  (to appear)},
-      url = {https://github.com/novasearch/Mobile-1-D-Face-Liveness-Detection/},
-      year={2022}
-    }
+    @InProceedings{10.1007/978-3-031-04881-4_21,
+       author="Padnevych, Ruslan
+          and Carmo, David
+          and Semedo, David
+          and Magalh{\~a}es, Jo{\~a}o",
+          editor="Pinho, Armando J.
+          and Georgieva, Petia
+          and Teixeira, Lu{\'i}s F.
+          and S{\'a}nchez, Joan Andreu",
+       title="Temporal Convolutional Networks for Robust Face Liveness Detection",
+       booktitle="Pattern Recognition and Image Analysis",
+       year="2022",
+       publisher="Springer International Publishing",
+       address="Cham",
+       pages="255--267",
+       isbn="978-3-031-04881-4"
+     }
+
 
 ## License
 
